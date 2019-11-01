@@ -1,6 +1,7 @@
 # Required packages
 PRODUCT_PACKAGES += \
-    ThemePicker
+    ThemePicker \
+    DerpThemesStub
 
 # Extra tools in DerpFest
 PRODUCT_PACKAGES += \
