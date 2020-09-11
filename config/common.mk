@@ -101,7 +101,7 @@ PRODUCT_PACKAGE_OVERLAYS += \
     vendor/derp/overlay
 
 # Inherit from apex config
-$(call inherit-product, vendor/derp/config/apex.mk)
+# $(call inherit-product, vendor/derp/config/apex.mk)
 
 # Inherit from audio config
 $(call inherit-product, vendor/derp/config/audio.mk)
