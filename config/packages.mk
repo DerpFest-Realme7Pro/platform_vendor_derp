@@ -1,3 +1,7 @@
+# Required packages
+PRODUCT_PACKAGES += \
+    ThemePicker
+
 # Extra tools in DerpFest
 PRODUCT_PACKAGES += \
     7z \
