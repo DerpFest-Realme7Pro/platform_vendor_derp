@@ -96,6 +96,9 @@ include vendor/derp/config/packages.mk
 # Versioning
 include vendor/derp/config/version.mk
 
+# Overlays
+include vendor/overlay/config.mk
+
 # GApps
 include vendor/google/gms/config.mk
 include vendor/google/pixel/config.mk
