@@ -100,5 +100,5 @@ include vendor/derp/config/version.mk
 include vendor/overlay/config.mk
 
 # GApps
-include vendor/google/gms/config.mk
-include vendor/google/pixel/config.mk
+#include vendor/google/gms/config.mk
+#include vendor/google/pixel/config.mk
