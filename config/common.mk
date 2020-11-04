@@ -198,7 +198,7 @@ include vendor/evolution/config/branding.mk
 include vendor/evolution/config/ota.mk
 
 # Inherit from apex config
-$(call inherit-product, vendor/evolution/config/apex.mk)
+#$(call inherit-product, vendor/evolution/config/apex.mk)
 
 # Inherit from GMS product config
 ifeq ($(WITH_GAPPS),true)
